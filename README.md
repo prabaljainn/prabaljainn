@@ -1,6 +1,6 @@
 ## Hola, I'm [Prabal Jain!](https://www.linkedin.com/in/prabaljainn/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabaljainn&label=Views&color=blue&style=plastic" alt="prabal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabaljainn&label=Profile Views&color=blue&style=plastic" alt="prabal" /> </p>
 
 <a href="https://twitter.com/prabaljainn">
   <img align="left" alt="Prabal's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
