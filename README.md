@@ -41,7 +41,7 @@
 - 🌱 I’m currently learning Flask
 - 💬 Ask me about Python and Algos
 - 📫 How to reach me: linkedin: prabaljainn
-- 😄 Pronouns: he/him
+
 
 
 **Languages and Tools:**  
