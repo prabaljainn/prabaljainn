@@ -38,7 +38,7 @@
 /> -->
 
 - 🔭 I’m currently working on API Dev and Integration
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently working on Nodejs
 - 💬 Ask me about Python and Algos
 - 📫 How to reach me: linkedin: prabaljainn
 
