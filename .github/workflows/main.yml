@@ -1,3 +1,4 @@
+token: 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
 name: Metrics
 on:
   # Schedule updates (each hour]
@@ -15,14 +16,14 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           
       - name: 📰 Activity plugin
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 7
@@ -36,7 +37,7 @@ jobs:
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_followup: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
@@ -46,7 +47,7 @@ jobs:
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
@@ -59,7 +60,7 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -70,7 +71,7 @@ jobs:
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_languages_sections: most-used, recently-used
           plugin_languages: yes
@@ -81,7 +82,7 @@ jobs:
         with:
           filename: metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: repositories
           plugin_lines: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
@@ -92,7 +93,7 @@ jobs:
         with:
           filename: metrics.plugin.pagespeed.svg
           token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
@@ -104,7 +105,7 @@ jobs:
         with:
           filename: metrics.plugin.music.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_music: yes
           plugin_music_provider: spotify
@@ -121,7 +122,7 @@ jobs:
         with:
           filename: metrics.plugin.posts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_posts: yes
           plugin_posts_source: dev.to
@@ -132,7 +133,7 @@ jobs:
         with:
           filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_stargazers: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
@@ -143,7 +144,7 @@ jobs:
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 2
@@ -155,7 +156,7 @@ jobs:
 #          filename: metrics.plugin.tweets.svg
 #          token: NOT_NEEDED
 #          user: UB_Shubh
-#          committer_token: ${{ secrets.GITHUB_TOKEN }}
+#          committer_token: ${{ token }}
 #          plugin_tweets: yes
 #          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
 #          plugin_tweets_user: github
@@ -168,7 +169,7 @@ jobs:
         with:
           filename: metrics.plugin.error.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_projects: yes
 
@@ -181,7 +182,7 @@ jobs:
         with:
           filename: metrics.header.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: header
           debug_flags: --cakeday --hireable --halloween
           
@@ -190,7 +191,7 @@ jobs:
         with:
           filename: metrics.plugin.topics.mastered.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ token }}
           base: ""
           plugin_topics: yes
           plugin_topics_mode: mastered
