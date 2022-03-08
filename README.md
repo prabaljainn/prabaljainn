@@ -1,25 +1,30 @@
 ## Hola, I'm [Prabal Jain!](https://www.linkedin.com/in/prabaljainn/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabaljainn&label=Profile Views&color=blue&style=plastic" alt="prabal" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
 
 <a href="https://twitter.com/prabaljainn">
-  <img align="left" alt="Prabal's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Prabal's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/prabaljainn">
-  <img align="left" alt="Prabal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Prabal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/prabaljainn">
-  <img align="left" alt="Prabal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Prabal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://instagram.com/prabalj.exe/">
-  <img align="left" alt="Prabal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Prabal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/prabaljainn/">
-  <img align="left" alt="Prabal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Prabal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCbDS3Z0ZmxtVc45j8BU92Zw">
-  <img align="left" alt="Prabal's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="center" alt="Prabal's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
@@ -27,24 +32,34 @@
 
 
 
-[![Twitter: prabaljainn](https://img.shields.io/twitter/follow/prabaljainn?style=social)](https://twitter.com/prabaljainn)
-[![Linkedin: prabaljainn](https://img.shields.io/badge/-prabaljainn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/prabaljainn/)
-[![GitHub iampawan](https://img.shields.io/github/followers/prabaljainn?label=follow&style=social)](https://github.com/prabaljainn)
-
+<div id="badges">
+  <a href="https://linkedin.com/in/prabaljainn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCbDS3Z0ZmxtVc45j8BU92Zw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/prabaljainn">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <!-- <b>GitHub Profile Visitor Counter</b>
 <br><br>
 ![Visitor Count](https://profile-counter.glitch.me/{prabaljainn}/count.svg)
 /> -->
 
-- 🔭 I’m currently working on API Dev and Integration
-- 🌱 I’m currently working on Nodejs
+- 🔭 I’m currently working for MoneyyApp
+- 🌱 I’m currently working on Python and APIS
 - 💬 Ask me about Python and Algos
 - 📫 How to reach me: linkedin: prabaljainn
 
 
+---
 
-**Languages and Tools:**  
+### :hammer_and_wrench: Languages and Tools :
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
