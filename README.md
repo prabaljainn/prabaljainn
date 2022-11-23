@@ -72,17 +72,17 @@
 <br>
 
 <a href="https://github.com/prabaljainn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabaljainn&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabaljainn&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/prabaljainn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabaljainn&show_icons=true&theme=light&line_height=27" alt="Prabal's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabaljainn&show_icons=true&theme=dark&line_height=27" alt="Prabal's github stats"/>
 </a>
 <a href="https://github.com/prabaljainn/Linkedin-Connection-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabaljainn&repo=Linkedin-Connection-Bot&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabaljainn&repo=Linkedin-Connection-Bot&theme=dark" />
 
 </a>
-<a href="https://github.com/prabaljainn/Personal-dsa-repo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabaljainn&repo=Personal-dsa-repo&theme=light" />
+<a href="https://github.com/prabaljainn/leetcode-solutions">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabaljainn&repo=leetcode-solutions&theme=dark" />
 </a>
 
 <div align="center">
