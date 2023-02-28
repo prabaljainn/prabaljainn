@@ -60,7 +60,7 @@
 /> -->
 <div align="center">
 <p>
-- 🔭 I’m currently working for MoneyyApp
+- 🔭 I’m currently working for Alogozenith
   <br>
 - 🌱 I’m currently working on Python and APIS
   <br>
