@@ -1,10 +1,12 @@
 <div align="center">
 <!--   Hey There, I'm [Prabal Jain!](https://www.linkedin.com/in/prabaljainn/) 😊😊 -->
-  <h1>Hey There, I'm <a href = "https://www.linkedin.com/in/prabaljainn/"> Prabal Jain 😊😊</a></h1>
-<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-  <a href="#"><img width="800" height="auto" src="https://github.com/prabaljainn/prabaljainn/blob/main/intro.gif" height="175px"/></a>
+  <h1>Hey 👋 There, I'm <a href = "https://www.linkedin.com/in/prabaljainn/"> Prabal Jain</a></h1>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/> -->
+  
+  <img width="600" height="auto" src="https://github.com/prabaljainn/prabaljainn/blob/main/intro.gif" height="175px"/>
+   
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="contributions.svg" ></a>
 </div>
 
 
@@ -62,7 +64,7 @@
 <p>
 - 🔭 I’m currently working for Algozenith
   <br>
-- 🌱 I’m currently working on Python and APIS
+- 🌱 I’m currently working on FullStack projects
   <br>
 - 💬 Ask me about Python and Algos
   <br>
