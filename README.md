@@ -60,7 +60,7 @@
 /> -->
 <div align="center">
 <p>
-- 🔭 I’m currently working for Alogozenith
+- 🔭 I’m currently working for Algozenith
   <br>
 - 🌱 I’m currently working on Python and APIS
   <br>
