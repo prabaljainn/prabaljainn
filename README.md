@@ -87,7 +87,7 @@
   <br>
   <br>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/prabaljainn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabaljainn&theme=dark&hide_langs_below=1" />
 </a>
@@ -101,7 +101,7 @@
 <a href="https://github.com/prabaljainn/leetcode-solutions">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabaljainn&repo=leetcode-solutions&theme=dark" />
 </a>
-</div>
+</div> -->
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
