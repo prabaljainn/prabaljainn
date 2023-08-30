@@ -62,30 +62,16 @@
 /> -->
 <div align="center">
 <p>
-- 🔭 I’m currently working for Algozenith
+- 🔭 I’m currently working for KS
   <br>
-- 🌱 I’m currently working on FullStack projects
+- 🌱 I’m currently working on SpringBoot, Kafka, Flink, and Angular.
   <br>
-- 💬 Ask me about Python and Algos
+- 💬 Ask me about Backend Services and Systems
   <br>
 - 📫 How to reach me: linkedin: prabaljainn
   <br>
 </p>
   </div>
-
----
-<div align="center">
-<h1>🛠️🛠️ Languages and Tools </h1>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/62801988/132631615-f36cc3e6-cf1e-4b1a-b049-534676ef963d.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/62801988/132631744-c7738d6f-030d-41f4-a08c-8c8e867956c2.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/62801988/132631720-46795914-b8bb-42bb-adb8-b003b42e5108.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/62801988/132631695-3cdfb6ec-e914-4bff-9bba-f170bc7180a1.png"></code>
-<br>
-  </div>
-  <br>
-  <br>
 
 <!-- <div align="center">
 <a href="https://github.com/prabaljainn">
