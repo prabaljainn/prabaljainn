@@ -3,7 +3,7 @@
 I love to talk about trending ⚡ technology ⚡, I have a huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here
 
 - 🏢 I'm currently working at **Kloudspot Inc.**
-- 🚀 I use daily: **TypeScript**, **Java**, **MongoDB**, **Bash**, **VS Code**, **STS**
+- 🚀 I use daily: **Java**, **Kafka**, **MongoDB**, **Bash**, **VS Code**, **STS**
 - 💻 I work using: **Angular**, **Flink**, **Kafka**, **Spring Boot**, **PostgreSQL**, **Amazon AWS**, **BitBucket**
 - ⚡️ Fun fact: In Dev, a "quick fix" today often becomes a "technical debt" that collects interest tomorrow!
 
@@ -17,7 +17,7 @@ I love to talk about trending ⚡ technology ⚡, I have a huge attraction on �
 <!--   <img width="600" height="auto" src="https://github.com/prabaljainn/prabaljainn/blob/main/intro.gif" height="1px"/> -->
    
 
-<a href=#><img src="contributions.svg" ></a>
+
 </div>
 
 <div align="center">
